@@ -337,4 +337,3 @@ This project was developed to demonstrate how fundamental data structures and al
 The repository contains the complete Java source code required to understand and run the Contact Management System.
 
 If you find the project useful, consider giving the repository a ⭐!
-# Contact-Management-System
